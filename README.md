@@ -1,1 +1,1 @@
-# SSAFY-SD
+# SSAFY-Sundo
