@@ -1,14 +1,39 @@
 # SSAFY-Sundo
-1. Profile
-```
-   - Algorithm learner
-   - Newbie
-```
-2. Education
-```
-   - Majored in Business Administration
-   - Learned Python programming at SSAFY
-```
-3. Contact Me
-```
-```   
+
+# 자기소개
+
+안녕하세요! 👋
+
+저는 SSAFY 12기 대전 2반 **[김순도]** 입니다. 
+현재 SSAFY에서 파이썬과 GPT 프로프트를 배우고 있으며, 다양한 기술과 도구를 사용하여 문제를 해결하는 것을 즐깁니다.
+
+## 관심 분야
+
+- 금융 데이터 분석
+- 인공지능
+- 빅데이터
+
+## 사용 언어 및 도구
+
+- **프로그래밍 언어**: Python
+- **프레임워크**: Django, Spring
+- **도구**: Git, VSCode
+
+## 프로젝트
+
+### 프로젝트 1: [프로젝트 이름](https://github.com/your-username/project-repo)
+
+- 설명: 이 프로젝트는 어떤 기능을 가지고 있는지, 그리고 어떤 문제를 해결하는지 간단히 설명합니다.
+- 기술: 이 프로젝트에서 사용한 주요 기술 스택을 나열합니다.
+
+### 프로젝트 2: [프로젝트 이름](https://github.com/your-username/project-repo)
+
+- 설명: 이 프로젝트는 어떤 기능을 가지고 있는지, 그리고 어떤 문제를 해결하는지 간단히 설명합니다.
+- 기술: 이 프로젝트에서 사용한 주요 기술 스택을 나열합니다.
+
+## 연락처
+
+- 이메일: [ggo3080@naver.com](mailto:ggo3080@naver.com)
+
+감사합니다!
+
