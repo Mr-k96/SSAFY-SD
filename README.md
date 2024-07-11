@@ -1,6 +1,6 @@
 # SSAFY-Sundo
-```1. Profile
-   - Algorithm learner
+1. Profile
+```- Algorithm learner
    - Newbie
 ```
 2. Education
